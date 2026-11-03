@@ -1,0 +1,1 @@
+Project to create a Pokemon Simulation Battle Terminal Game that implements C++ Object Oriented Programming that uses classes and OOP concepts to implement Pokemon classes and types to simulate types interactions and ASCII art.
